@@ -1,0 +1,179 @@
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.wrapper{
+	width: 1000px;
+	height: 1500px;
+	background: #269BFF;
+	margin: auto;
+}
+.header{
+	width: 1000px;
+	height: 90px;
+	background: #EC7173;
+}
+.logo{
+	width: 200px;
+	height: 90px;
+	background: #130707;
+	float: left;
+}
+.menu{
+	width: 800px;
+	height: 90px;
+	background:#FFFEFC;
+	float: right;
+}
+.logo img{
+	width: 200px;
+	height: 90px;
+}
+
+.menu ul { 
+/*	background: #1F568B; */
+        list-style: none; 
+        text-align: center; 
+}
+.menu li { 
+	color: #f1f1f1; 
+	display: inline-block;
+	width: 120px; 
+	height: 80px; 
+	line-height: 80px; 
+/*	margin-right: 5px; */
+}
+.menu a { 
+	text-decoration: none; 
+	color:#000000 ; display: block; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+} 
+.menu a:hover { 
+	background: black; 
+	color: white; 
+}
+
+.content{
+	width: 1000px;
+	height: 1320px;
+	background: #A1F958;
+
+}
+.nen1{
+	width: 1000px;
+	height: 660px;
+	background: #F443CD;
+}
+.left{
+	width: 500px;
+	height:660px;
+	background: #11FC7E;
+	float: left;
+}
+.left img{
+	width: 500px;
+	height:660px;
+}
+
+.right{
+	width: 500px;
+	height:660px;
+	background:#F5F9F8;
+	float: right;
+}
+.right h1{
+	text-align: center;
+	padding-top: 250px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.right h2{
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.right ul li{
+	text-align: center;
+
+}
+.right ul { 
+/*	background: #1F568B; */
+        list-style: none; 
+        text-align: center; 
+}
+.right li { 
+	color: #f1f1f1; 
+	display: inline-block;
+	width: 120px; 
+	height: 40px; 
+	line-height: 80px; 
+	margin-right: 5px;
+}
+.right a { 
+	text-decoration: none; 
+	color:#000000 ; display: block; 
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+} 
+.right a:hover { 
+	background: #F6F6F6; 
+	color: #A78E8F;
+}
+.nen2{
+	width: 1000px;
+	height: 660px;
+}
+.right img{
+	width: 500px;
+	height:660px;
+}
+.left{
+	width: 500px;
+	height:660px;
+	background:#FFFFFF;
+	float: left;
+}
+.left h1{
+	padding-top: 60px;
+	padding-left: 20px;
+	font-size:50px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.left h2{
+	font-size:14px;
+	padding-left: 60px;
+	padding-top: 40px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.footer{
+	width: 1000px;
+	height: 90px;
+	background: #F5F9F8
+}
+.nen-trai{
+	width: 500px;
+	height: 90px;
+	float: left;
+}
+.nen-trai h1{
+	padding-top : 13px;
+	padding-left: 50px;
+	font-size: 12px;
+	color: black;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+
+.nen-phai{
+	width: 150px;
+	height: 90px;
+	float: right
+}
+
+
+
+
+
+
+
+
